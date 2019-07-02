@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180437355191",
+    "firebase_url": "https://ezenciel-fcd78.firebaseio.com",
+    "project_id": "ezenciel-fcd78",
+    "storage_bucket": "ezenciel-fcd78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180437355191:android:163106b7b1d7ba65",
+        "android_client_info": {
+          "package_name": "com.ezenciel.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180437355191-olce7d7e5caebvnlukh4mt29iplqhi3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZuOQ-ny-O04_-Q2vLmRiDxZRh3SylDmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180437355191-olce7d7e5caebvnlukh4mt29iplqhi3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

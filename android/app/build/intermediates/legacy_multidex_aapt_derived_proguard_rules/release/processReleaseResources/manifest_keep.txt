@@ -1,0 +1,4 @@
+# Referenced at C:\Work\Ezenciel\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Work\Ezenciel\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class com.ezenciel.app.MainApplication { <init>(); }
